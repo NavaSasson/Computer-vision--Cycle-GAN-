@@ -17,3 +17,6 @@ All the advantages above (and the lecturer's recommendation) made me choose this
 This model easily learned my dataset and managed to generate after 79 epochs successful images
 (and in the live test 110 epochs)
 
+![pic1](https://github.com/NavaSasson/Currencies-Table-Chess-Board-Multiplication-Table/blob/main/pictures/pic1.png)
+
+
