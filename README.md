@@ -1,5 +1,5 @@
 # Computer-vision-graduation-project
-Face swap: The goal is to transfer my face to another domain using deep learning based computer vision and complex neural networks (Cycle Gan).
+Face swap: The goal is to transfer my face to another domain using deep learning based computer vision and complex neural networks (Cycle GAN).
 
 My project was to training the cycle Gan model using this open source: 
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
